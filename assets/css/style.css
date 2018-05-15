@@ -260,11 +260,11 @@ input[type=submit] {
   }
 
   #logo{
-    width: 100%;
+    width: 580px;
   }
 
   nav{
-    width: 100%;
+    width: 580px;
     margin: 10px 0;
     text-align: center;
   }
@@ -281,5 +281,9 @@ input[type=submit] {
 
   .work {
     width: 100%;
+  }
+
+  footer{
+    width: 580px;
   }
 }
