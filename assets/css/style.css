@@ -245,6 +245,7 @@ input[type=submit] {
 @media only screen and (max-width: 640px) {
   #masthead{
     position: static;
+    width: 640px;
   }
 
   .container{
@@ -253,6 +254,7 @@ input[type=submit] {
 
   #main-container{
     padding-top: 0px;
+    width: 580px;
   }
 
   .main-section{
@@ -260,7 +262,8 @@ input[type=submit] {
   }
 
   #logo{
-    width: 580px;
+    width: 640px;
+    margin-left: -30px;
   }
 
   nav{
@@ -284,6 +287,6 @@ input[type=submit] {
   }
 
   footer{
-    width: 580px;
+    width: 640px;
   }
 }
