@@ -258,6 +258,7 @@ input[type=submit] {
 @media only screen and (max-width: 640px) {
   body{
     width: 640px;
+    position: relative;
   }
 
   #masthead{
@@ -305,5 +306,6 @@ input[type=submit] {
 
   footer{
     width: 640px;
+    margin-bottom: 0;
   }
 }
